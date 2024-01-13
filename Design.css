@@ -1,0 +1,22 @@
+h1{
+color:white;
+text-align: center;
+background-color: lightpink;
+}
+
+h4{
+    text-align: center;
+    font-family: fantasy;
+font-weight: 300;
+}
+p{
+    text-align: center;
+    font-family: Apple Chancery;
+    background-color: white;
+}
+
+body{
+background-image: url("meow.jpg");
+background-size: cover;
+
+}
